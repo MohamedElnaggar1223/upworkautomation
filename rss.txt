@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title><![CDATA[All My Job Feed (all saved searches combined) jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/topics/rss?orgUid=1543965074222759937&amp;securityToken=d918fbf86b06309a07ecd82bed9dea8695fe86a3dc4c3ffc3d047c45c0305102e6acbcc6c031a79bf8f52a4f0f86208a5610462417368ebe4f97b1406c230396&amp;userUid=1543965074222759936]]></link><description><![CDATA[All My Job Feed (all saved searches combined) jobs as of May 18, 2024 21:49 UTC]]></description><language>en-us</language><pubDate>Sat, 18 May 2024 21:49:57 +0000</pubDate><copyright>© 2003-2024 Upwork Corporation</copyright><docs>http://blogs.law.harvard.edu/tech/rss</docs><generator>Upwork Corporation</generator><managingEditor>rss@upwork.com (Upwork Corporation)</managingEditor><image><url>https://www.upwork.com/images/rss_logo.png</url><title><![CDATA[All My Job Feed (all saved searches combined) jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/topics/rss?orgUid=1543965074222759937&amp;securityToken=d918fbf86b06309a07ecd82bed9dea8695fe86a3dc4c3ffc3d047c45c0305102e6acbcc6c031a79bf8f52a4f0f86208a5610462417368ebe4f97b1406c230396&amp;userUid=1543965074222759936]]></link></image><item><title><![CDATA[Help connect my Next JS Template to my Django backend - Upwork]]></title><link>https://www.upwork.com/jobs/Help-connect-Next-Template-Django-backend_%7E01d5955a4df1fc2d35?source=rss</link><description><![CDATA[Project Description:<br /><br />
+We have an existing Django backend using the Oscar ecommerce framework with a built-in API. We&#039;ve purchased a Next.js template for the frontend but need help integrating the two seamlessly.<br /><br />
+Key Responsibilities:<br /><br />
+API Integration:<br />
+Analyze the Oscar API endpoints and data structures.<br />
+Adapt the Next.js template components to fetch and display product data, category information, shopping cart details, and other relevant information from the Django backend.<br />
+Troubleshoot and resolve any issues preventing successful data display.<br />
+Data Formatting:<br />
+Evaluate whether data formatting is the root cause of display issues.<br />
+If needed, implement appropriate data transformations or normalization on the frontend or backend to ensure compatibility.<br />
+State Management:<br />
+Implement state management solutions (e.g., React Context, Redux, Zustand) to handle shopping cart updates, product selections, and user interactions.<br /><br /><br />
+Required Skills &amp;amp; Experience:<br /><br />
+Proficiency in Next.js: Strong understanding of Next.js concepts (server-side rendering, routing, component architecture).<br />
+REST API Experience: Experience working with RESTful APIs, particularly consuming data.<br />
+JavaScript Expertise: Advanced knowledge of JavaScript (ES6+) and React.<br />
+Django/Oscar Familiarity (Preferred): Basic understanding of Django and the Oscar framework would be beneficial.<br />
+Problem-Solving Skills: Ability to debug and resolve integration challenges.<br />
+Attention to Detail: Meticulous approach to ensure data accuracy and seamless user experience.<br />
+Additional Information:<br /><br />
+Project Timeline: [Estimated duration, 1-2 weeks]<br />
+Communication: Regular communication (e.g., daily updates, video calls) is essential.<br />
+Deliverables:<br />
+A fully functional Next.js frontend integrated with the Django Oscar backend.<br />
+Well-documented code.<br />
+Clear instructions for future maintenance and updates.<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 20:12 UTC<br /><b>Category</b>: Back-End Development<br /><b>Skills</b>:Python,     JavaScript,     React,     Django,     Web Development,     RESTful API,     Node.js,     CSS,     HTML,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Help-connect-Next-Template-Django-backend_%7E01d5955a4df1fc2d35?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Project Description:<br /><br />
+We have an existing Django backend using the Oscar ecommerce framework with a built-in API. We&#039;ve purchased a Next.js template for the frontend but need help integrating the two seamlessly.<br /><br />
+Key Responsibilities:<br /><br />
+API Integration:<br />
+Analyze the Oscar API endpoints and data structures.<br />
+Adapt the Next.js template components to fetch and display product data, category information, shopping cart details, and other relevant information from the Django backend.<br />
+Troubleshoot and resolve any issues preventing successful data display.<br />
+Data Formatting:<br />
+Evaluate whether data formatting is the root cause of display issues.<br />
+If needed, implement appropriate data transformations or normalization on the frontend or backend to ensure compatibility.<br />
+State Management:<br />
+Implement state management solutions (e.g., React Context, Redux, Zustand) to handle shopping cart updates, product selections, and user interactions.<br /><br /><br />
+Required Skills &amp;amp; Experience:<br /><br />
+Proficiency in Next.js: Strong understanding of Next.js concepts (server-side rendering, routing, component architecture).<br />
+REST API Experience: Experience working with RESTful APIs, particularly consuming data.<br />
+JavaScript Expertise: Advanced knowledge of JavaScript (ES6+) and React.<br />
+Django/Oscar Familiarity (Preferred): Basic understanding of Django and the Oscar framework would be beneficial.<br />
+Problem-Solving Skills: Ability to debug and resolve integration challenges.<br />
+Attention to Detail: Meticulous approach to ensure data accuracy and seamless user experience.<br />
+Additional Information:<br /><br />
+Project Timeline: [Estimated duration, 1-2 weeks]<br />
+Communication: Regular communication (e.g., daily updates, video calls) is essential.<br />
+Deliverables:<br />
+A fully functional Next.js frontend integrated with the Django Oscar backend.<br />
+Well-documented code.<br />
+Clear instructions for future maintenance and updates.<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 20:12 UTC<br /><b>Category</b>: Back-End Development<br /><b>Skills</b>:Python,     JavaScript,     React,     Django,     Web Development,     RESTful API,     Node.js,     CSS,     HTML,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Help-connect-Next-Template-Django-backend_%7E01d5955a4df1fc2d35?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 20:12:25 +0000</pubDate><guid>https://www.upwork.com/jobs/Help-connect-Next-Template-Django-backend_%7E01d5955a4df1fc2d35?source=rss</guid></item><item><title><![CDATA[MERN Full stack dev needed - Upwork]]></title><link>https://www.upwork.com/jobs/MERN-Full-stack-dev-needed_%7E016c732da4dada304f?source=rss</link><description><![CDATA[Hello,<br /><br />
+I am looking for a excellent dev for the long-term particularly with the MERN stack. Project is related to bible. I&#039;ve got some small things I want to address. <br /><br />
+($10) - Milestone 1:<br />
+It shows that I have 8 vulnerabilities on the client, and also there is some error message about a DeprecationWarning, so I would like to get that straightened out. <br /><br />
+($10) - Milestone 2:<br />
+I would like to understand why and what you would propose on how I can better structure my project in relation to React Context / WebSockets, and possibly Redis and React Query.<br /><br />
+Send me a message and let&#039;s discuss. <br /><br />
+Thanks,<br />
+John<br /><br /><b>Budget</b>: $200
+<br /><b>Posted On</b>: May 18, 2024 20:08 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Docker,     Redis,     React,     Node.js,     HTML,     CSS,     TypeScript,     MERN Stack,     JavaScript,     Web Development,     Redux,     Web Application,     HTML5,     Docker Compose,     MongoDB,     ExpressJS,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/MERN-Full-stack-dev-needed_%7E016c732da4dada304f?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hello,<br /><br />
+I am looking for a excellent dev for the long-term particularly with the MERN stack. Project is related to bible. I&#039;ve got some small things I want to address. <br /><br />
+($10) - Milestone 1:<br />
+It shows that I have 8 vulnerabilities on the client, and also there is some error message about a DeprecationWarning, so I would like to get that straightened out. <br /><br />
+($10) - Milestone 2:<br />
+I would like to understand why and what you would propose on how I can better structure my project in relation to React Context / WebSockets, and possibly Redis and React Query.<br /><br />
+Send me a message and let&#039;s discuss. <br /><br />
+Thanks,<br />
+John<br /><br /><b>Budget</b>: $200
+<br /><b>Posted On</b>: May 18, 2024 20:08 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Docker,     Redis,     React,     Node.js,     HTML,     CSS,     TypeScript,     MERN Stack,     JavaScript,     Web Development,     Redux,     Web Application,     HTML5,     Docker Compose,     MongoDB,     ExpressJS,     API    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/MERN-Full-stack-dev-needed_%7E016c732da4dada304f?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 20:08:26 +0000</pubDate><guid>https://www.upwork.com/jobs/MERN-Full-stack-dev-needed_%7E016c732da4dada304f?source=rss</guid></item><item><title><![CDATA[Front end development - virtual tour platform - Upwork]]></title><link>https://www.upwork.com/jobs/Front-end-development-virtual-tour-platform_%7E01fef7922e3fdb965b?source=rss</link><description><![CDATA[Requirements:<br />
+Quickly develop a MVP virtual tour platform using open source Javascript framework such as three.js, babylon.js or react360.js . This is a web development position. More specifics in person. Ideally this would be a right job provided someone has already done web app development in the 360 rendering space. <br />
+Note this job is not a one time virtual digital 360 virtual tour creation. <br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 18, 2024 19:56 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:Three.js,     JavaScript    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Front-end-development-virtual-tour-platform_%7E01fef7922e3fdb965b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Requirements:<br />
+Quickly develop a MVP virtual tour platform using open source Javascript framework such as three.js, babylon.js or react360.js . This is a web development position. More specifics in person. Ideally this would be a right job provided someone has already done web app development in the 360 rendering space. <br />
+Note this job is not a one time virtual digital 360 virtual tour creation. <br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 18, 2024 19:56 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:Three.js,     JavaScript    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Front-end-development-virtual-tour-platform_%7E01fef7922e3fdb965b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 19:56:13 +0000</pubDate><guid>https://www.upwork.com/jobs/Front-end-development-virtual-tour-platform_%7E01fef7922e3fdb965b?source=rss</guid></item><item><title><![CDATA[Microsoft Copilot coder for completing a mobile application - Upwork]]></title><link>https://www.upwork.com/jobs/Microsoft-Copilot-coder-for-completing-mobile-application_%7E017184a40870a879e2?source=rss</link><description><![CDATA[Utilize Microsoft Copilot to complete bug fixes, cosmetic changes, product descriptions, and most important utilize previous working code to replicate functionality in the new code language (react native). <br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 18, 2024 17:39 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:SQLite,     AI Mobile App Development,     Mobile App Bug Fix,     User Profile Creation,     In-App Purchases,     Smartphone,     iOS,     Android,     User Authentication,     Mobile App Development    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Microsoft-Copilot-coder-for-completing-mobile-application_%7E017184a40870a879e2?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Utilize Microsoft Copilot to complete bug fixes, cosmetic changes, product descriptions, and most important utilize previous working code to replicate functionality in the new code language (react native). <br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 18, 2024 17:39 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:SQLite,     AI Mobile App Development,     Mobile App Bug Fix,     User Profile Creation,     In-App Purchases,     Smartphone,     iOS,     Android,     User Authentication,     Mobile App Development    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Microsoft-Copilot-coder-for-completing-mobile-application_%7E017184a40870a879e2?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 17:39:11 +0000</pubDate><guid>https://www.upwork.com/jobs/Microsoft-Copilot-coder-for-completing-mobile-application_%7E017184a40870a879e2?source=rss</guid></item><item><title><![CDATA[Reuired  Java and React Full stack developer  - Upwork]]></title><link>https://www.upwork.com/jobs/Reuired-Java-and-React-Full-stack-developer_%7E012f467ee06cee6372?source=rss</link><description><![CDATA[Hi All,<br /><br />
+We are looking for an experienced Full stack developer in Java, React, Spring boot, Kafka, AWS, SNS, SQS, Junit having more than 7 years of experience in all these tech stacks.<br /><br />
+This is a full time job for 2 hours daily from Monday to Friday over zoom/ WebEx <br />
+Timing : Before 10am ist<br /><br />
+Budget - 22k inr monthly<br /><br /><b>Budget</b>: $265
+<br /><b>Posted On</b>: May 18, 2024 17:01 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Java,     React,     Spring Boot,     JUnit,     Microsoft Azure,     Play Framework,     Apache Kafka    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Reuired-Java-and-React-Full-stack-developer_%7E012f467ee06cee6372?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi All,<br /><br />
+We are looking for an experienced Full stack developer in Java, React, Spring boot, Kafka, AWS, SNS, SQS, Junit having more than 7 years of experience in all these tech stacks.<br /><br />
+This is a full time job for 2 hours daily from Monday to Friday over zoom/ WebEx <br />
+Timing : Before 10am ist<br /><br />
+Budget - 22k inr monthly<br /><br /><b>Budget</b>: $265
+<br /><b>Posted On</b>: May 18, 2024 17:01 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Java,     React,     Spring Boot,     JUnit,     Microsoft Azure,     Play Framework,     Apache Kafka    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Reuired-Java-and-React-Full-stack-developer_%7E012f467ee06cee6372?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 17:01:19 +0000</pubDate><guid>https://www.upwork.com/jobs/Reuired-Java-and-React-Full-stack-developer_%7E012f467ee06cee6372?source=rss</guid></item><item><title><![CDATA[ Need to automate the process of building a Flutter app from existing React and ASP.NET code. - Upwork]]></title><link>https://www.upwork.com/jobs/Need-automate-the-process-building-Flutter-app-from-existing-React-and-ASP-NET-code_%7E01e1a04f36db5a90f0?source=rss</link><description><![CDATA[We are looking for a skilled full-stack developer with expertise in React.js, ASP.NET Core, and Flutter to transform our existing web application into a mobile application. Our objective is to establish a streamlined process for creating Flutter mobile builds from our regularly updated web codebase.<br /><br />
+Key Responsibilities:<br />
+&bull; Integrate our current React.js and ASP.NET Core web applications into a Flutter mobile app.<br />
+&bull; Develop a system for continuous builds of the mobile application from the existing web codebase with minimal modifications.<br />
+&bull; Implement a web-based mobile application approach, such as Progressive Web Apps (PWA), to enable rapid deployment on both Android and iOS platforms.<br />
+&bull; Provide a detailed project proposal with options and a strategic approach to efficiently achieve this integration.<br /><br />
+Requirements:<br />
+&bull;&nbsp;&nbsp;Proven experience in React.js and ASP.NET Core development.<br />
+&bull;&nbsp;&nbsp;Strong expertise in Flutter and mobile app development.<br />
+&bull; Familiarity with Progressive Web Apps (PWA) or similar web-based mobile application methodologies.<br />
+&bull;&nbsp;&nbsp;Ability to work with existing codebases and integrate them into new frameworks with minimal changes.<br />
+&bull; Excellent problem-solving skills and attention to detail.<br /><br />
+Preferred Qualifications:<br />
+&bull;&nbsp;&nbsp;Experience in creating systems for continuous integration and deployment (CI/CD).<br />
+&bull; Prior experience in projects involving the integration of web applications into mobile platforms.<br /><br />
+Application Instructions:<br />
+Please submit your resume, a brief cover letter, and a project proposal outlining your approach to this integration, including your recommended options and timeline.<br /><br />
+We look forward to seeing how you can help us achieve a seamless and efficient mobile application integration.<br /><br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 12:11 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Flutter,     React,     API,     Node.js,     ASP.NET    
+<br /><b>Country</b>: Australia
+<br /><a href="https://www.upwork.com/jobs/Need-automate-the-process-building-Flutter-app-from-existing-React-and-ASP-NET-code_%7E01e1a04f36db5a90f0?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled full-stack developer with expertise in React.js, ASP.NET Core, and Flutter to transform our existing web application into a mobile application. Our objective is to establish a streamlined process for creating Flutter mobile builds from our regularly updated web codebase.<br /><br />
+Key Responsibilities:<br />
+&bull; Integrate our current React.js and ASP.NET Core web applications into a Flutter mobile app.<br />
+&bull; Develop a system for continuous builds of the mobile application from the existing web codebase with minimal modifications.<br />
+&bull; Implement a web-based mobile application approach, such as Progressive Web Apps (PWA), to enable rapid deployment on both Android and iOS platforms.<br />
+&bull; Provide a detailed project proposal with options and a strategic approach to efficiently achieve this integration.<br /><br />
+Requirements:<br />
+&bull;&nbsp;&nbsp;Proven experience in React.js and ASP.NET Core development.<br />
+&bull;&nbsp;&nbsp;Strong expertise in Flutter and mobile app development.<br />
+&bull; Familiarity with Progressive Web Apps (PWA) or similar web-based mobile application methodologies.<br />
+&bull;&nbsp;&nbsp;Ability to work with existing codebases and integrate them into new frameworks with minimal changes.<br />
+&bull; Excellent problem-solving skills and attention to detail.<br /><br />
+Preferred Qualifications:<br />
+&bull;&nbsp;&nbsp;Experience in creating systems for continuous integration and deployment (CI/CD).<br />
+&bull; Prior experience in projects involving the integration of web applications into mobile platforms.<br /><br />
+Application Instructions:<br />
+Please submit your resume, a brief cover letter, and a project proposal outlining your approach to this integration, including your recommended options and timeline.<br /><br />
+We look forward to seeing how you can help us achieve a seamless and efficient mobile application integration.<br /><br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 12:11 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Flutter,     React,     API,     Node.js,     ASP.NET    
+<br /><b>Country</b>: Australia
+<br /><a href="https://www.upwork.com/jobs/Need-automate-the-process-building-Flutter-app-from-existing-React-and-ASP-NET-code_%7E01e1a04f36db5a90f0?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 12:11:32 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-automate-the-process-building-Flutter-app-from-existing-React-and-ASP-NET-code_%7E01e1a04f36db5a90f0?source=rss</guid></item><item><title><![CDATA[Need Automated Approach to Build Flutter app from existing React\ASP.NET Code - Upwork]]></title><link>https://www.upwork.com/jobs/Need-Automated-Approach-Build-Flutter-app-from-existing-React-ASP-NET-Code_%7E01b3879253d0a42e30?source=rss</link><description><![CDATA[We are seeking a skilled Full-Stack Developer with expertise in React.js, ASP.NET Core, and Flutter to integrate our existing web application into a mobile application. Our goal is to have a seamless process to create builds for a Flutter mobile application from our current web codebase, which is regularly updated.<br /><br />
+**Key Responsibilities:**<br />
+- Integrate our existing React.js and ASP.NET Core web application into a Flutter mobile app.<br />
+- Develop a system that allows continuous builds of the mobile application from the existing web codebase with minimal alterations.<br />
+- Implement a web-based mobile application approach, such as Progressive Web Apps (PWA), to ensure quick deployment for both Android and iOS platforms.<br />
+- Provide a detailed project proposal outlining options and the approach to tackle this integration efficiently.<br /><br />
+**Requirements:**<br />
+- Proven experience in React.js and ASP.NET Core development.<br />
+- Strong expertise in Flutter and mobile app development.<br />
+- Familiarity with Progressive Web Apps (PWA) or similar web-based mobile application approaches.<br />
+- Ability to work with existing codebases and integrate them into new frameworks with minimal changes.<br />
+- Excellent problem-solving skills and attention to detail.<br /><br />
+**Preferred Qualifications:**<br />
+- Experience in creating systems for continuous integration and deployment (CI/CD).<br />
+- Prior experience in similar projects where a web application was integrated into a mobile platform.<br /><br />
+**Application Instructions:**<br />
+Please submit your resume, a brief cover letter, and a project proposal outlining how you would approach this integration, including your recommended options and timeline.<br /><br />
+We look forward to seeing how you can help us achieve a seamless and efficient mobile application integration<br /><br /><b>Budget</b>: $750
+<br /><b>Posted On</b>: May 18, 2024 10:35 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     ASP.NET Core,     Progressive Web App,     Flutter    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Need-Automated-Approach-Build-Flutter-app-from-existing-React-ASP-NET-Code_%7E01b3879253d0a42e30?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a skilled Full-Stack Developer with expertise in React.js, ASP.NET Core, and Flutter to integrate our existing web application into a mobile application. Our goal is to have a seamless process to create builds for a Flutter mobile application from our current web codebase, which is regularly updated.<br /><br />
+**Key Responsibilities:**<br />
+- Integrate our existing React.js and ASP.NET Core web application into a Flutter mobile app.<br />
+- Develop a system that allows continuous builds of the mobile application from the existing web codebase with minimal alterations.<br />
+- Implement a web-based mobile application approach, such as Progressive Web Apps (PWA), to ensure quick deployment for both Android and iOS platforms.<br />
+- Provide a detailed project proposal outlining options and the approach to tackle this integration efficiently.<br /><br />
+**Requirements:**<br />
+- Proven experience in React.js and ASP.NET Core development.<br />
+- Strong expertise in Flutter and mobile app development.<br />
+- Familiarity with Progressive Web Apps (PWA) or similar web-based mobile application approaches.<br />
+- Ability to work with existing codebases and integrate them into new frameworks with minimal changes.<br />
+- Excellent problem-solving skills and attention to detail.<br /><br />
+**Preferred Qualifications:**<br />
+- Experience in creating systems for continuous integration and deployment (CI/CD).<br />
+- Prior experience in similar projects where a web application was integrated into a mobile platform.<br /><br />
+**Application Instructions:**<br />
+Please submit your resume, a brief cover letter, and a project proposal outlining how you would approach this integration, including your recommended options and timeline.<br /><br />
+We look forward to seeing how you can help us achieve a seamless and efficient mobile application integration<br /><br /><b>Budget</b>: $750
+<br /><b>Posted On</b>: May 18, 2024 10:35 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     ASP.NET Core,     Progressive Web App,     Flutter    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Need-Automated-Approach-Build-Flutter-app-from-existing-React-ASP-NET-Code_%7E01b3879253d0a42e30?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 10:35:26 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-Automated-Approach-Build-Flutter-app-from-existing-React-ASP-NET-Code_%7E01b3879253d0a42e30?source=rss</guid></item><item><title><![CDATA[Blockchain Developer Solana - Upwork]]></title><link>https://www.upwork.com/jobs/Blockchain-Developer-Solana_%7E01b0a079901c0dd287?source=rss</link><description><![CDATA[ONLY REACT IF YOU MEET THE FOLLOWING CRITERIA:<br /><br />
+- You are part of a company with multiple developers.<br />
+- You have experience with developing on the Solana blockchain and can explain what Pnft is. Include your explanation in your application.<br />
+- You are willing to complete a test project before formal engagement.<br />
+- You are available to work weekends as needed.<br /><br />
+Position Overview:<br />
+We are seeking a highly skilled Rust and Solidity Developer to join our dynamic team. This role requires deep technical knowledge in blockchain development and a commitment to innovative problem solving.<br /><br />
+Key Responsibilities:<br /><br />
+-Develop high-quality software using Rust and Solidity, focusing on performance and reliability.<br />
+-Design and implement smart contracts on the Solana blockchain.<br />
+- Collaborate with various teams to understand project requirements and deliver technical solutions.<br />
+- Maintain and improve code quality through writing clean, efficient, and maintainable code.<br />
+- Conduct code reviews and provide constructive feedback.<br />
+- Address software issues and contribute to project deliverables on schedule.<br />
+- Keep abreast of new technologies and best practices in the industry.<br /><br />
+Essential Skills &amp;amp; Qualifications:<br /><br />
+- Strong proficiency in Rust and extensive experience with Solidity smart contracts.<br />
+- Demonstrable success in complex software project delivery.<br />
+- Familiarity with ChatGPT Pro integration into software applications.<br />
+- Excellent analytical skills with detail-oriented problem-solving abilities.<br />
+- Effective under tight deadlines and within a dynamic working environment.<br />
+- Proficient in collaborative teamwork across functional groups.<br />
+- Deep understanding of blockchain technology and decentralized applications.<br />
+- Experienced with Git or similar version control systems.<br /><br />
+Preferred Additional Qualifications:<br /><br />
+- Proficiency in other programming languages such as Python, JavaScript, or C++.<br />
+- Knowledge of front-end frameworks (React, Angular, etc.) and - - DevOps practices including CI/CD pipelines.<br /><br />
+Application Process:<br />
+If you meet all the above requirements and are ready to tackle exciting challenges in blockchain development, we look forward to your application. Please be sure to include your experience with Solana and a brief explanation of Pnft in your response.<br /><br /><b>Hourly Range</b>: $10.00-$25.00
+
+<br /><b>Posted On</b>: May 18, 2024 09:26 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Rust,     API Development,     ChatGPT,     AI Development,     Blockchain,     Blockchain Architecture,     Smart Contract,     Solana    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Blockchain-Developer-Solana_%7E01b0a079901c0dd287?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[ONLY REACT IF YOU MEET THE FOLLOWING CRITERIA:<br /><br />
+- You are part of a company with multiple developers.<br />
+- You have experience with developing on the Solana blockchain and can explain what Pnft is. Include your explanation in your application.<br />
+- You are willing to complete a test project before formal engagement.<br />
+- You are available to work weekends as needed.<br /><br />
+Position Overview:<br />
+We are seeking a highly skilled Rust and Solidity Developer to join our dynamic team. This role requires deep technical knowledge in blockchain development and a commitment to innovative problem solving.<br /><br />
+Key Responsibilities:<br /><br />
+-Develop high-quality software using Rust and Solidity, focusing on performance and reliability.<br />
+-Design and implement smart contracts on the Solana blockchain.<br />
+- Collaborate with various teams to understand project requirements and deliver technical solutions.<br />
+- Maintain and improve code quality through writing clean, efficient, and maintainable code.<br />
+- Conduct code reviews and provide constructive feedback.<br />
+- Address software issues and contribute to project deliverables on schedule.<br />
+- Keep abreast of new technologies and best practices in the industry.<br /><br />
+Essential Skills &amp;amp; Qualifications:<br /><br />
+- Strong proficiency in Rust and extensive experience with Solidity smart contracts.<br />
+- Demonstrable success in complex software project delivery.<br />
+- Familiarity with ChatGPT Pro integration into software applications.<br />
+- Excellent analytical skills with detail-oriented problem-solving abilities.<br />
+- Effective under tight deadlines and within a dynamic working environment.<br />
+- Proficient in collaborative teamwork across functional groups.<br />
+- Deep understanding of blockchain technology and decentralized applications.<br />
+- Experienced with Git or similar version control systems.<br /><br />
+Preferred Additional Qualifications:<br /><br />
+- Proficiency in other programming languages such as Python, JavaScript, or C++.<br />
+- Knowledge of front-end frameworks (React, Angular, etc.) and - - DevOps practices including CI/CD pipelines.<br /><br />
+Application Process:<br />
+If you meet all the above requirements and are ready to tackle exciting challenges in blockchain development, we look forward to your application. Please be sure to include your experience with Solana and a brief explanation of Pnft in your response.<br /><br /><b>Hourly Range</b>: $10.00-$25.00
+
+<br /><b>Posted On</b>: May 18, 2024 09:26 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Rust,     API Development,     ChatGPT,     AI Development,     Blockchain,     Blockchain Architecture,     Smart Contract,     Solana    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Blockchain-Developer-Solana_%7E01b0a079901c0dd287?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 09:26:18 +0000</pubDate><guid>https://www.upwork.com/jobs/Blockchain-Developer-Solana_%7E01b0a079901c0dd287?source=rss</guid></item><item><title><![CDATA[FIGMA &amp; React App for a aggregator  - Upwork]]></title><link>https://www.upwork.com/jobs/FIGMA-amp-React-App-for-aggregator_%7E016cc8843f30d8eb15?source=rss</link><description><![CDATA[We are seeking a highly skilled FIGMA/React designer to create an intuitive and engaging user experience for DentalHeaven.com, a platform dedicated to helping users find and save continuous education courses globally. The ideal candidate will have a strong background in both FIGMA for UX/UI design and React.js for front-end development, ensuring a seamless integration of design and functionality. Responsibilities include developing wireframes, interactive prototypes, and high-fidelity designs, as well as implementing responsive and user-friendly interfaces. Familiarity with Google authentication, tag management, and sharing features is a plus. <br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 09:12 UTC<br /><b>Category</b>: UX/UI Design<br /><b>Skills</b>:Figma,     React    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/FIGMA-amp-React-App-for-aggregator_%7E016cc8843f30d8eb15?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking a highly skilled FIGMA/React designer to create an intuitive and engaging user experience for DentalHeaven.com, a platform dedicated to helping users find and save continuous education courses globally. The ideal candidate will have a strong background in both FIGMA for UX/UI design and React.js for front-end development, ensuring a seamless integration of design and functionality. Responsibilities include developing wireframes, interactive prototypes, and high-fidelity designs, as well as implementing responsive and user-friendly interfaces. Familiarity with Google authentication, tag management, and sharing features is a plus. <br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 09:12 UTC<br /><b>Category</b>: UX/UI Design<br /><b>Skills</b>:Figma,     React    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/FIGMA-amp-React-App-for-aggregator_%7E016cc8843f30d8eb15?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 09:12:56 +0000</pubDate><guid>https://www.upwork.com/jobs/FIGMA-amp-React-App-for-aggregator_%7E016cc8843f30d8eb15?source=rss</guid></item><item><title><![CDATA[via Chatgpt Mutliuser Chatapp - Upwork]]></title><link>https://www.upwork.com/jobs/via-Chatgpt-Mutliuser-Chatapp_%7E01ef700d65f5baf91b?source=rss</link><description><![CDATA[Index: It is available as HTML, and you need to convert it to Next.js.<br />
+User: You need to create the login/register/forgot password/user settings pages as UI. I can show you an example design along with their functions.<br />
+Billing: You need to create a pricing page. We will find an example design together. There will be one option for $9.99 which will allow access to the translation page and use of ChatGPT 4.0 for premium members with a daily limit of 15k tokens. Additionally, you will place billing somewhere on the user settings page where Stripe invoices will be listed.<br />
+Stripe: Stripe integration is needed for purchasing premium membership.<br />
+Admin: Login/Dashboard<br /><br />
+Total number of members<br />
+Number of members registered today, this week, this month, and in total<br />
+Number of members who made purchases today, this week, this month, and in total<br />
+Current number of active users<br />
+Number of ChatGPT 3.5 tokens consumed today, this week, this month, and in total - Member List - Member list page - Edit member page - Delete member page - Read chat history<br />
+Chatbot:<br />
+Repo: Please set up and test &amp;quot;github /lobehub/lobe-chat&amp;quot;<br /><br />
+UI Changes: A few changes need to be made in the UI: add a button to delete all chats, display remaining tokens, limit the model selection, allow chat name changes, and remove 2-3 functions.<br />
+Translate: This will only be visible to premium members and will display the used and remaining token count in one place.<br />
+Translate Page: You will slightly modify the UI of the translate page according to Lobe Chat and set it up using &amp;quot;github openai-translator/openai-translator&amp;quot;.<br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 18, 2024 07:19 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:OpenAI API,     Next.js,     TypeScript,     JavaScript,     Generative AI    
+<br /><b>Country</b>: Turkey
+<br /><a href="https://www.upwork.com/jobs/via-Chatgpt-Mutliuser-Chatapp_%7E01ef700d65f5baf91b?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Index: It is available as HTML, and you need to convert it to Next.js.<br />
+User: You need to create the login/register/forgot password/user settings pages as UI. I can show you an example design along with their functions.<br />
+Billing: You need to create a pricing page. We will find an example design together. There will be one option for $9.99 which will allow access to the translation page and use of ChatGPT 4.0 for premium members with a daily limit of 15k tokens. Additionally, you will place billing somewhere on the user settings page where Stripe invoices will be listed.<br />
+Stripe: Stripe integration is needed for purchasing premium membership.<br />
+Admin: Login/Dashboard<br /><br />
+Total number of members<br />
+Number of members registered today, this week, this month, and in total<br />
+Number of members who made purchases today, this week, this month, and in total<br />
+Current number of active users<br />
+Number of ChatGPT 3.5 tokens consumed today, this week, this month, and in total - Member List - Member list page - Edit member page - Delete member page - Read chat history<br />
+Chatbot:<br />
+Repo: Please set up and test &amp;quot;github /lobehub/lobe-chat&amp;quot;<br /><br />
+UI Changes: A few changes need to be made in the UI: add a button to delete all chats, display remaining tokens, limit the model selection, allow chat name changes, and remove 2-3 functions.<br />
+Translate: This will only be visible to premium members and will display the used and remaining token count in one place.<br />
+Translate Page: You will slightly modify the UI of the translate page according to Lobe Chat and set it up using &amp;quot;github openai-translator/openai-translator&amp;quot;.<br /><br /><b>Budget</b>: $500
+<br /><b>Posted On</b>: May 18, 2024 07:19 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:OpenAI API,     Next.js,     TypeScript,     JavaScript,     Generative AI    
+<br /><b>Country</b>: Turkey
+<br /><a href="https://www.upwork.com/jobs/via-Chatgpt-Mutliuser-Chatapp_%7E01ef700d65f5baf91b?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 07:19:30 +0000</pubDate><guid>https://www.upwork.com/jobs/via-Chatgpt-Mutliuser-Chatapp_%7E01ef700d65f5baf91b?source=rss</guid></item><item><title><![CDATA[Looking for WebGL Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Looking-for-WebGL-Developer_%7E014ac6e9b08a60e76e?source=rss</link><description><![CDATA[Key Responsibilities:<br />
+Develop and implement WebGL-based applications and interactive experiences, including 2D and 3D graphics rendering, animations, and visual effects.<br />
+Collaborate with designers and developers to translate concepts and designs into functional and visually appealing web applications.<br />
+Utilize Inkscape and other design tools to modify SVG vectors and coordinates and create or modify SVG elements and components.<br />
+Manage vector files and assets, ensuring efficient storage, organization, and accessibility for development and production purposes.<br />
+Optimize performance and ensure compatibility across different web browsers and devices, including desktop and mobile platforms.<br />
+Manipulate objects, paths, nodes, and anchors to edit and refine their designs<br /><br />
+Programming Languages:<br />
+TypeScript &amp;amp; JavaScript: Expertise in building interactive web applications using modern frameworks and libraries (e.g., React, Angular, Node.js).<br />
+Proficient in handling asynchronous operations, API integrations, and frontend-backend communication.<br />
+C++: Advanced knowledge in system-level programming, memory management, and performance optimization. Experience in developing complex algorithms and working with graphics rendering engines.<br />
+Net and .net wrappers<br />
+Graphics and Rendering:<br />
+WebGL: In-depth understanding of WebGL for hardware-accelerated 2D and 3D graphics rendering in web browsers. Experience in shader programming and optimization.<br />
+Knowledge of the SwiftShader library for CPU-based implementation of WebGL and Vulkan specifications.<br /><br />
+If you believe that your skills and expertise align with the requirements of this position, please send us your CV for review. Additionally, if you have a portfolio or examples of previous work, we would be interested in seeing them. We are eager to assess your qualifications and establish a cooperative relationship as soon as possible.<br /><br />
+We look forward to hearing from you.<br /><br /><b>Hourly Range</b>: $15.00-$40.00
+
+<br /><b>Posted On</b>: May 18, 2024 06:19 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:JavaScript    
+<br /><b>Country</b>: Vietnam
+<br /><a href="https://www.upwork.com/jobs/Looking-for-WebGL-Developer_%7E014ac6e9b08a60e76e?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Key Responsibilities:<br />
+Develop and implement WebGL-based applications and interactive experiences, including 2D and 3D graphics rendering, animations, and visual effects.<br />
+Collaborate with designers and developers to translate concepts and designs into functional and visually appealing web applications.<br />
+Utilize Inkscape and other design tools to modify SVG vectors and coordinates and create or modify SVG elements and components.<br />
+Manage vector files and assets, ensuring efficient storage, organization, and accessibility for development and production purposes.<br />
+Optimize performance and ensure compatibility across different web browsers and devices, including desktop and mobile platforms.<br />
+Manipulate objects, paths, nodes, and anchors to edit and refine their designs<br /><br />
+Programming Languages:<br />
+TypeScript &amp;amp; JavaScript: Expertise in building interactive web applications using modern frameworks and libraries (e.g., React, Angular, Node.js).<br />
+Proficient in handling asynchronous operations, API integrations, and frontend-backend communication.<br />
+C++: Advanced knowledge in system-level programming, memory management, and performance optimization. Experience in developing complex algorithms and working with graphics rendering engines.<br />
+Net and .net wrappers<br />
+Graphics and Rendering:<br />
+WebGL: In-depth understanding of WebGL for hardware-accelerated 2D and 3D graphics rendering in web browsers. Experience in shader programming and optimization.<br />
+Knowledge of the SwiftShader library for CPU-based implementation of WebGL and Vulkan specifications.<br /><br />
+If you believe that your skills and expertise align with the requirements of this position, please send us your CV for review. Additionally, if you have a portfolio or examples of previous work, we would be interested in seeing them. We are eager to assess your qualifications and establish a cooperative relationship as soon as possible.<br /><br />
+We look forward to hearing from you.<br /><br /><b>Hourly Range</b>: $15.00-$40.00
+
+<br /><b>Posted On</b>: May 18, 2024 06:19 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:JavaScript    
+<br /><b>Country</b>: Vietnam
+<br /><a href="https://www.upwork.com/jobs/Looking-for-WebGL-Developer_%7E014ac6e9b08a60e76e?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 06:19:19 +0000</pubDate><guid>https://www.upwork.com/jobs/Looking-for-WebGL-Developer_%7E014ac6e9b08a60e76e?source=rss</guid></item><item><title><![CDATA[Admin Dashboard Functionality only with Supabase - Upwork]]></title><link>https://www.upwork.com/jobs/Admin-Dashboard-Functionality-only-with-Supabase_%7E0106c11be6c588aad7?source=rss</link><description><![CDATA[We want to add dashboard functionalities to an existing React App. The design elements will be minimal, need to implement CRUD operations on almost 7 database tables. <br /><br />
+Supabase and React TypeScript knowledge is a must. I would ask you to share your Supabase projects in the interview.<br /><br />
+The timeline is 31st May, so please only apply if you&#039;re willing to get this done. <br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 03:00 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     TypeScript,     Supabase    
+<br /><b>Country</b>: Pakistan
+<br /><a href="https://www.upwork.com/jobs/Admin-Dashboard-Functionality-only-with-Supabase_%7E0106c11be6c588aad7?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We want to add dashboard functionalities to an existing React App. The design elements will be minimal, need to implement CRUD operations on almost 7 database tables. <br /><br />
+Supabase and React TypeScript knowledge is a must. I would ask you to share your Supabase projects in the interview.<br /><br />
+The timeline is 31st May, so please only apply if you&#039;re willing to get this done. <br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 18, 2024 03:00 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,     TypeScript,     Supabase    
+<br /><b>Country</b>: Pakistan
+<br /><a href="https://www.upwork.com/jobs/Admin-Dashboard-Functionality-only-with-Supabase_%7E0106c11be6c588aad7?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 03:00:29 +0000</pubDate><guid>https://www.upwork.com/jobs/Admin-Dashboard-Functionality-only-with-Supabase_%7E0106c11be6c588aad7?source=rss</guid></item><item><title><![CDATA[[$250] Tags - After deleting a Tag, the select button is not showing the correct amount #42271 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Tags-After-deleting-Tag-the-select-button-not-showing-the-correct-amount-42271-Expensify_%7E010953527677d8e414?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42271<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 18, 2024 00:28 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Tags-After-deleting-Tag-the-select-button-not-showing-the-correct-amount-42271-Expensify_%7E010953527677d8e414?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42271<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 18, 2024 00:28 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Tags-After-deleting-Tag-the-select-button-not-showing-the-correct-amount-42271-Expensify_%7E010953527677d8e414?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Sat, 18 May 2024 00:28:03 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Tags-After-deleting-Tag-the-select-button-not-showing-the-correct-amount-42271-Expensify_%7E010953527677d8e414?source=rss</guid></item><item><title><![CDATA[[$125] Fix inconsistency with task details view #42354 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/125-Fix-inconsistency-with-task-details-view-42354-Expensify_%7E01d9c0a9595a888d2c?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42354<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $125
+<br /><b>Posted On</b>: May 17, 2024 22:44 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/125-Fix-inconsistency-with-task-details-view-42354-Expensify_%7E01d9c0a9595a888d2c?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42354<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $125
+<br /><b>Posted On</b>: May 17, 2024 22:44 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/125-Fix-inconsistency-with-task-details-view-42354-Expensify_%7E01d9c0a9595a888d2c?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 22:44:45 +0000</pubDate><guid>https://www.upwork.com/jobs/125-Fix-inconsistency-with-task-details-view-42354-Expensify_%7E01d9c0a9595a888d2c?source=rss</guid></item><item><title><![CDATA[[$250] Fix inconsistency with task details page #42354 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Fix-inconsistency-with-task-details-page-42354-Expensify_%7E01db685a9d37d1ad04?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42354<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 22:39 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Fix-inconsistency-with-task-details-page-42354-Expensify_%7E01db685a9d37d1ad04?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42354<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 22:39 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Fix-inconsistency-with-task-details-page-42354-Expensify_%7E01db685a9d37d1ad04?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 22:39:03 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Fix-inconsistency-with-task-details-page-42354-Expensify_%7E01db685a9d37d1ad04?source=rss</guid></item><item><title><![CDATA[[$250] Video previews aren't showing in Chat #42111 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Video-previews-aren-showing-Chat-42111-Expensify_%7E016f0c3af56df70306?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42111<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 21:48 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Video-previews-aren-showing-Chat-42111-Expensify_%7E016f0c3af56df70306?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42111<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 21:48 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Video-previews-aren-showing-Chat-42111-Expensify_%7E016f0c3af56df70306?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 21:48:00 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Video-previews-aren-showing-Chat-42111-Expensify_%7E016f0c3af56df70306?source=rss</guid></item><item><title><![CDATA[[$250] [CRITICAL] Submit an expense menu option not available for the workspace chat #42172 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-CRITICAL-Submit-expense-menu-option-not-available-for-the-workspace-chat-42172-Expensify_%7E010768fa26d7b30a23?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42172<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 21:42 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-CRITICAL-Submit-expense-menu-option-not-available-for-the-workspace-chat-42172-Expensify_%7E010768fa26d7b30a23?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42172<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 21:42 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-CRITICAL-Submit-expense-menu-option-not-available-for-the-workspace-chat-42172-Expensify_%7E010768fa26d7b30a23?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 21:42:50 +0000</pubDate><guid>https://www.upwork.com/jobs/250-CRITICAL-Submit-expense-menu-option-not-available-for-the-workspace-chat-42172-Expensify_%7E010768fa26d7b30a23?source=rss</guid></item><item><title><![CDATA[Convert Laravel web application to Mobile App - Upwork]]></title><link>https://www.upwork.com/jobs/Convert-Laravel-web-application-Mobile-App_%7E01e0dd7298bd1a0712?source=rss</link><description><![CDATA[We&#039;re seeking a hybrid mobile app developer to transform an existing Laravel mobile friendly web app to a hybrid mobile app for users to download on the App Store and Google Play. This is a quick-turnaround project, so be ready to dive in and deliver polished result in the shortest time possible. The work will include posting the apps on their respective stores.<br /><br />
+When replying please ensure the below<br />
+- You say which framework (or how) you are going convert the web app<br />
+- why the above option<br />
+- how long will use<br />
+- you are within the budget range<br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2024 20:29 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:Hybrid App Development,     React Native,     Mobile App Development,     Laravel    
+<br /><b>Country</b>: Kenya
+<br /><a href="https://www.upwork.com/jobs/Convert-Laravel-web-application-Mobile-App_%7E01e0dd7298bd1a0712?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We&#039;re seeking a hybrid mobile app developer to transform an existing Laravel mobile friendly web app to a hybrid mobile app for users to download on the App Store and Google Play. This is a quick-turnaround project, so be ready to dive in and deliver polished result in the shortest time possible. The work will include posting the apps on their respective stores.<br /><br />
+When replying please ensure the below<br />
+- You say which framework (or how) you are going convert the web app<br />
+- why the above option<br />
+- how long will use<br />
+- you are within the budget range<br /><br /><b>Budget</b>: $150
+<br /><b>Posted On</b>: May 17, 2024 20:29 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:Hybrid App Development,     React Native,     Mobile App Development,     Laravel    
+<br /><b>Country</b>: Kenya
+<br /><a href="https://www.upwork.com/jobs/Convert-Laravel-web-application-Mobile-App_%7E01e0dd7298bd1a0712?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 20:29:37 +0000</pubDate><guid>https://www.upwork.com/jobs/Convert-Laravel-web-application-Mobile-App_%7E01e0dd7298bd1a0712?source=rss</guid></item><item><title><![CDATA[[$250] Editing a message with an image attached before image loading completed never loads the attachments #42300 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Editing-message-with-image-attached-before-image-loading-completed-never-loads-the-attachments-42300-Expensify_%7E01737e481166a622be?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42300<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 20:04 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Editing-message-with-image-attached-before-image-loading-completed-never-loads-the-attachments-42300-Expensify_%7E01737e481166a622be?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42300<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 20:04 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Editing-message-with-image-attached-before-image-loading-completed-never-loads-the-attachments-42300-Expensify_%7E01737e481166a622be?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 20:04:36 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Editing-message-with-image-attached-before-image-loading-completed-never-loads-the-attachments-42300-Expensify_%7E01737e481166a622be?source=rss</guid></item><item><title><![CDATA[App Developer for P2P Escrow Transactions - Upwork]]></title><link>https://www.upwork.com/jobs/App-Developer-for-P2P-Escrow-Transactions_%7E01c44b1607ef02cfbb?source=rss</link><description><![CDATA[We are seeking an experienced app developer to build a secure and user-friendly application for escrow transactions. The app will primarily focus on facilitating peer-to-peer transactions involving fiat currencies, cryptocurrencies, through the purchase of a gift card which would primarily serve as a medium of exchange and&nbsp;&nbsp;would be the&nbsp;&nbsp;app token which for example (&amp;quot;ABC token&amp;quot;). The ideal candidate should have a strong understanding of escrow services and a track record of developing similar applications, furthermore knowledge on blockchain integration is required.<br />
+&nbsp;&nbsp;Responsibilities:<br />
+&nbsp;&nbsp;- Design and develop a cross-platform mobile application for escrow transactions<br />
+&nbsp;&nbsp;- Implement secure payment gateways and encryption protocols<br />
+&nbsp;&nbsp;- Ensure seamless integration with various payment methods (fiat and cryptocurrencies)<br />
+&nbsp;&nbsp;- Create an intuitive user interface for easy navigation and transaction management<br />
+&nbsp;&nbsp;- Conduct thorough testing and debugging to ensure a bug-free user experience<br />
+&nbsp;&nbsp;Skills:<br />
+&nbsp;&nbsp;- Mobile app development (Android and iOS)<br />
+&nbsp;&nbsp;- Knowledge of escrow services and transaction security<br />
+&nbsp;&nbsp;- Experience with payment gateways and encryption<br />
+&nbsp;&nbsp;- Proficiency in programming languages such as Java, Swift, or React Native<br />
+&nbsp;&nbsp;- Strong problem-solving and communication skills<br />
+&nbsp;&nbsp;Size: medium,<br />
+&nbsp;&nbsp;Duration: 1 to 2 months,<br />
+&nbsp;&nbsp;Expertise: Expert<br /><br />
+More information would be provided regarding the insights of this project.<br /><br /><b>Budget</b>: $1,200
+<br /><b>Posted On</b>: May 17, 2024 19:56 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:iOS,     Android,     Smartphone,     JavaScript,     Mobile App Development,     iOS Development,     User Authentication    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/App-Developer-for-P2P-Escrow-Transactions_%7E01c44b1607ef02cfbb?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are seeking an experienced app developer to build a secure and user-friendly application for escrow transactions. The app will primarily focus on facilitating peer-to-peer transactions involving fiat currencies, cryptocurrencies, through the purchase of a gift card which would primarily serve as a medium of exchange and&nbsp;&nbsp;would be the&nbsp;&nbsp;app token which for example (&amp;quot;ABC token&amp;quot;). The ideal candidate should have a strong understanding of escrow services and a track record of developing similar applications, furthermore knowledge on blockchain integration is required.<br />
+&nbsp;&nbsp;Responsibilities:<br />
+&nbsp;&nbsp;- Design and develop a cross-platform mobile application for escrow transactions<br />
+&nbsp;&nbsp;- Implement secure payment gateways and encryption protocols<br />
+&nbsp;&nbsp;- Ensure seamless integration with various payment methods (fiat and cryptocurrencies)<br />
+&nbsp;&nbsp;- Create an intuitive user interface for easy navigation and transaction management<br />
+&nbsp;&nbsp;- Conduct thorough testing and debugging to ensure a bug-free user experience<br />
+&nbsp;&nbsp;Skills:<br />
+&nbsp;&nbsp;- Mobile app development (Android and iOS)<br />
+&nbsp;&nbsp;- Knowledge of escrow services and transaction security<br />
+&nbsp;&nbsp;- Experience with payment gateways and encryption<br />
+&nbsp;&nbsp;- Proficiency in programming languages such as Java, Swift, or React Native<br />
+&nbsp;&nbsp;- Strong problem-solving and communication skills<br />
+&nbsp;&nbsp;Size: medium,<br />
+&nbsp;&nbsp;Duration: 1 to 2 months,<br />
+&nbsp;&nbsp;Expertise: Expert<br /><br />
+More information would be provided regarding the insights of this project.<br /><br /><b>Budget</b>: $1,200
+<br /><b>Posted On</b>: May 17, 2024 19:56 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:iOS,     Android,     Smartphone,     JavaScript,     Mobile App Development,     iOS Development,     User Authentication    
+<br /><b>Country</b>: United Kingdom
+<br /><a href="https://www.upwork.com/jobs/App-Developer-for-P2P-Escrow-Transactions_%7E01c44b1607ef02cfbb?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 19:56:21 +0000</pubDate><guid>https://www.upwork.com/jobs/App-Developer-for-P2P-Escrow-Transactions_%7E01c44b1607ef02cfbb?source=rss</guid></item><item><title><![CDATA[iPhone Applications using React JS - Upwork]]></title><link>https://www.upwork.com/jobs/iPhone-Applications-using-React_%7E0165897b75b643fbc0?source=rss</link><description><![CDATA[Front-End Developer - Social Metaverse Specialist (FiveM &amp;amp; React)<br /><br />
+*Are you a passionate front-end developer with a knack for building engaging social experiences? Do you crave a unique challenge that blends cutting-edge web development with the immersive world of GTA V? If so, then we want you!*<br /><br />
+*About the Role:*<br /><br />
+We&#039;re seeking a talented front-end developer to join our innovative team, building a suite of social media applications within the FiveM metaverse. You&#039;ll leverage the power of TypeScript and React to deliver high-performing and visually stunning experiences for our users. <br /><br />
+*Key Responsibilities:*<br /><br />
+* Develop interactive and user-friendly social media applications using TypeScript and modern React practices.<br />
+* Collaborate closely with back-end developers to ensure seamless integration of these applications within the FiveM environment.<br />
+* Optimize code for performance and responsiveness, ensuring smooth operation within the demanding framework of GTA V and FiveM.<br />
+* Employ creative problem-solving skills to navigate the unique challenges of developing for a virtual world.<br />
+* Stay up-to-date on the latest front-end technologies and trends, continuously improving your skills and knowledge.<br /><br />
+*Technical Skills:*<br /><br />
+* Proven experience with TypeScript and React development<br />
+* Strong understanding of HTML, CSS, and JavaScript<br />
+* Familiarity with UI/UX design principles<br />
+* Excellent communication and collaboration skills<br />
+* Must have a powerful computer capable of running GTA V, FiveM server (FX Server), XAMPP server, and Visual Studio Code simultaneously.<br />
+* Git version control is mandatory<br /><br />
+*Bonus Points:*<br /><br />
+* Experience with Lua scripting (used for FiveM server-side scripting)<br />
+* Knowledge of SQL (used for database management)<br /><br />
+*About FiveM &amp;amp; Social Metaverse Development:*<br /><br />
+FiveM is a modification for Grand Theft Auto V that allows players to join online servers and participate in role-playing experiences. These servers create virtual worlds with jobs, economies, and social interactions. Your role will be to develop the social features (like chat applications or in-world social media) that make these experiences truly engaging!<br /><br />
+*Join us and be a pioneer in building the future of social interaction within virtual&nbsp;worlds!*<br /><br /><b>Budget</b>: $650
+<br /><b>Posted On</b>: May 17, 2024 19:09 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:SQL,     TypeScript,     Git,     React,     UI/UX Prototyping,     Web Development,     HTML,     CSS,     JavaScript    
+<br /><b>Country</b>: Egypt
+<br /><a href="https://www.upwork.com/jobs/iPhone-Applications-using-React_%7E0165897b75b643fbc0?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Front-End Developer - Social Metaverse Specialist (FiveM &amp;amp; React)<br /><br />
+*Are you a passionate front-end developer with a knack for building engaging social experiences? Do you crave a unique challenge that blends cutting-edge web development with the immersive world of GTA V? If so, then we want you!*<br /><br />
+*About the Role:*<br /><br />
+We&#039;re seeking a talented front-end developer to join our innovative team, building a suite of social media applications within the FiveM metaverse. You&#039;ll leverage the power of TypeScript and React to deliver high-performing and visually stunning experiences for our users. <br /><br />
+*Key Responsibilities:*<br /><br />
+* Develop interactive and user-friendly social media applications using TypeScript and modern React practices.<br />
+* Collaborate closely with back-end developers to ensure seamless integration of these applications within the FiveM environment.<br />
+* Optimize code for performance and responsiveness, ensuring smooth operation within the demanding framework of GTA V and FiveM.<br />
+* Employ creative problem-solving skills to navigate the unique challenges of developing for a virtual world.<br />
+* Stay up-to-date on the latest front-end technologies and trends, continuously improving your skills and knowledge.<br /><br />
+*Technical Skills:*<br /><br />
+* Proven experience with TypeScript and React development<br />
+* Strong understanding of HTML, CSS, and JavaScript<br />
+* Familiarity with UI/UX design principles<br />
+* Excellent communication and collaboration skills<br />
+* Must have a powerful computer capable of running GTA V, FiveM server (FX Server), XAMPP server, and Visual Studio Code simultaneously.<br />
+* Git version control is mandatory<br /><br />
+*Bonus Points:*<br /><br />
+* Experience with Lua scripting (used for FiveM server-side scripting)<br />
+* Knowledge of SQL (used for database management)<br /><br />
+*About FiveM &amp;amp; Social Metaverse Development:*<br /><br />
+FiveM is a modification for Grand Theft Auto V that allows players to join online servers and participate in role-playing experiences. These servers create virtual worlds with jobs, economies, and social interactions. Your role will be to develop the social features (like chat applications or in-world social media) that make these experiences truly engaging!<br /><br />
+*Join us and be a pioneer in building the future of social interaction within virtual&nbsp;worlds!*<br /><br /><b>Budget</b>: $650
+<br /><b>Posted On</b>: May 17, 2024 19:09 UTC<br /><b>Category</b>: Front-End Development<br /><b>Skills</b>:SQL,     TypeScript,     Git,     React,     UI/UX Prototyping,     Web Development,     HTML,     CSS,     JavaScript    
+<br /><b>Country</b>: Egypt
+<br /><a href="https://www.upwork.com/jobs/iPhone-Applications-using-React_%7E0165897b75b643fbc0?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 19:09:25 +0000</pubDate><guid>https://www.upwork.com/jobs/iPhone-Applications-using-React_%7E0165897b75b643fbc0?source=rss</guid></item><item><title><![CDATA[[$250] Scan - &quot;Only visible to you&quot; whisper is not visible on multiple request report #42259 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Scan-quot-Only-visible-you-quot-whisper-not-visible-multiple-request-report-42259-Expensify_%7E01ba739091862c309e?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42259<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 18:16 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Scan-quot-Only-visible-you-quot-whisper-not-visible-multiple-request-report-42259-Expensify_%7E01ba739091862c309e?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42259<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 18:16 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Scan-quot-Only-visible-you-quot-whisper-not-visible-multiple-request-report-42259-Expensify_%7E01ba739091862c309e?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 18:16:14 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Scan-quot-Only-visible-you-quot-whisper-not-visible-multiple-request-report-42259-Expensify_%7E01ba739091862c309e?source=rss</guid></item><item><title><![CDATA[Tax amount does not update to 0.00 when changing tax rate to 0% offline #42052 - Expensify  - Upwork]]></title><link>https://www.upwork.com/jobs/Tax-amount-does-not-update-when-changing-tax-rate-offline-42052-Expensify_%7E010cfe7af989a2a629?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42052<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+ - AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements. <br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md <br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on when your PR is merged.&nbsp;&nbsp;<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 17:28 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:React Native    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Tax-amount-does-not-update-when-changing-tax-rate-offline-42052-Expensify_%7E010cfe7af989a2a629?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42052<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+ - AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements. <br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md <br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on when your PR is merged.&nbsp;&nbsp;<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 17:28 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:React Native    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/Tax-amount-does-not-update-when-changing-tax-rate-offline-42052-Expensify_%7E010cfe7af989a2a629?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 17:28:47 +0000</pubDate><guid>https://www.upwork.com/jobs/Tax-amount-does-not-update-when-changing-tax-rate-offline-42052-Expensify_%7E010cfe7af989a2a629?source=rss</guid></item><item><title><![CDATA[Urgent Hiring Java and React Full stack developer  - Upwork]]></title><link>https://www.upwork.com/jobs/Urgent-Hiring-Java-and-React-Full-stack-developer_%7E0171b4ef0f88c01e5d?source=rss</link><description><![CDATA[Hi All,<br /><br />
+We are looking for an experienced Full stack developer in Java, React, Spring boot, Kafka, AWS, SNS, SQS, Junit having more than 7 years of experience in all these tech stacks.<br /><br />
+This is a full time job for 2 hours daily from Monday to Friday over zoom/ WebEx <br />
+Timing : Before 10am ist<br /><br />
+Budget - 22k inr monthly<br /><br /><b>Budget</b>: $265
+<br /><b>Posted On</b>: May 17, 2024 17:12 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Java,     React,     Spring Boot,     JUnit,     Microsoft Azure,     Play Framework,     Apache Kafka    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Urgent-Hiring-Java-and-React-Full-stack-developer_%7E0171b4ef0f88c01e5d?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Hi All,<br /><br />
+We are looking for an experienced Full stack developer in Java, React, Spring boot, Kafka, AWS, SNS, SQS, Junit having more than 7 years of experience in all these tech stacks.<br /><br />
+This is a full time job for 2 hours daily from Monday to Friday over zoom/ WebEx <br />
+Timing : Before 10am ist<br /><br />
+Budget - 22k inr monthly<br /><br /><b>Budget</b>: $265
+<br /><b>Posted On</b>: May 17, 2024 17:12 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Java,     React,     Spring Boot,     JUnit,     Microsoft Azure,     Play Framework,     Apache Kafka    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/Urgent-Hiring-Java-and-React-Full-stack-developer_%7E0171b4ef0f88c01e5d?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 17:12:27 +0000</pubDate><guid>https://www.upwork.com/jobs/Urgent-Hiring-Java-and-React-Full-stack-developer_%7E0171b4ef0f88c01e5d?source=rss</guid></item><item><title><![CDATA[[$250] Video in chat has wrong aspect ratio and styling #42298 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Video-chat-has-wrong-aspect-ratio-and-styling-42298-Expensify_%7E01235ebb839b18cd37?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42298<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 17:03 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Video-chat-has-wrong-aspect-ratio-and-styling-42298-Expensify_%7E01235ebb839b18cd37?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42298<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 17:03 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Video-chat-has-wrong-aspect-ratio-and-styling-42298-Expensify_%7E01235ebb839b18cd37?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 17:03:43 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Video-chat-has-wrong-aspect-ratio-and-styling-42298-Expensify_%7E01235ebb839b18cd37?source=rss</guid></item><item><title><![CDATA[[$250] Categorizing - Account is auto subcribed to annual subscription when categorizing #42281 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Categorizing-Account-auto-subcribed-annual-subscription-when-categorizing-42281-Expensify_%7E01a99680d97889fefc?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42281<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 14:19 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Categorizing-Account-auto-subcribed-annual-subscription-when-categorizing-42281-Expensify_%7E01a99680d97889fefc?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42281<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 14:19 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Categorizing-Account-auto-subcribed-annual-subscription-when-categorizing-42281-Expensify_%7E01a99680d97889fefc?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 14:19:13 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Categorizing-Account-auto-subcribed-annual-subscription-when-categorizing-42281-Expensify_%7E01a99680d97889fefc?source=rss</guid></item><item><title><![CDATA[WhatsApp Web JS Setup on Virtual Instance - Upwork]]></title><link>https://www.upwork.com/jobs/WhatsApp-Web-Setup-Virtual-Instance_%7E0108f5d2e28ecc3f46?source=rss</link><description><![CDATA[We are looking for a skilled developer to help us set up WhatsApp Web JS on a virtual instance. The objective is to enable us to use WhatsApp Web without the need for a physical smartphone. The tasks involved in this project include:<br /><br />
+- Setting up a virtual instance with the necessary requirements<br />
+- Installing and configuring the WhatsApp Web JS library<br />
+- Testing and ensuring the setup is working correctly<br /><br />
+Skills required:<br /><br />
+- Proficiency in JavaScript<br />
+- Experience with virtual instances<br />
+- Familiarity with WhatsApp Web JS library<br /><br />
+This is a very short duration task which might take 8-10 hours of effort<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 17, 2024 13:12 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Node.js,     DevOps,     JavaScript    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/WhatsApp-Web-Setup-Virtual-Instance_%7E0108f5d2e28ecc3f46?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[We are looking for a skilled developer to help us set up WhatsApp Web JS on a virtual instance. The objective is to enable us to use WhatsApp Web without the need for a physical smartphone. The tasks involved in this project include:<br /><br />
+- Setting up a virtual instance with the necessary requirements<br />
+- Installing and configuring the WhatsApp Web JS library<br />
+- Testing and ensuring the setup is working correctly<br /><br />
+Skills required:<br /><br />
+- Proficiency in JavaScript<br />
+- Experience with virtual instances<br />
+- Familiarity with WhatsApp Web JS library<br /><br />
+This is a very short duration task which might take 8-10 hours of effort<br /><br /><b>Budget</b>: $100
+<br /><b>Posted On</b>: May 17, 2024 13:12 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Node.js,     DevOps,     JavaScript    
+<br /><b>Country</b>: India
+<br /><a href="https://www.upwork.com/jobs/WhatsApp-Web-Setup-Virtual-Instance_%7E0108f5d2e28ecc3f46?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 13:12:40 +0000</pubDate><guid>https://www.upwork.com/jobs/WhatsApp-Web-Setup-Virtual-Instance_%7E0108f5d2e28ecc3f46?source=rss</guid></item><item><title><![CDATA[POC / Dynamic Data Scraper Upgrade - Upwork]]></title><link>https://www.upwork.com/jobs/POC-Dynamic-Data-Scraper-Upgrade_%7E01e782ba6ca0693b58?source=rss</link><description><![CDATA[REVIEW ALL ATTACHED INFORMATION PROVIDED TO SEE IF QUALIFIED BEFORE APPLYING!<br /><br /><br />
+BACKSTORY:<br /><br />
+We already have a PYTHON/AWS based restaurant scraper the pulls data from Uber Eats, Door Dash,&nbsp;&nbsp;and alike. We also have an AI based scraper that can pull data from images and some more complicated or challenging menus. These are then pulled into a holding queue for manual review, parsing and sorting before it is imported into the final DB for accuracy. The mobile application(s), CRM, website(s) are built in REACT. The current database is utilizing FIREBASE.<br /><br />
+==============================================<br /><br />
+JOB SCOPE: <br /><br />
+We are looking for the next upgrade to our restaurant scraper:<br /><br />
+1. SCRAPE MENU DATA FOR INDIVIDUAL RESTAURANT: <br /><br />
+Version 1.0 will be done on a one-by-one basis manually, with larger versions to automate this for a larger setting to be done. For example, you set to pull 5/10/25 @ a time. Example provided in the attachment(s). Google Places API provides us the &amp;quot;place_id&amp;quot; (ie: ChIJa5DJ9TedF4gRuRi9kzhuRP8) identification for each restaurant, that can be used by the scraper to locate a specific restaurant for the scraping process.<br /><br />
+2. IMPORT DATA&nbsp;&nbsp;(including title/header/categories) into the parsing manual review queue. <br /><br />
+Google Menus are already nicely sorted into categories/titles for each section. We want to preserve this structure. It will be pulled into our parsing holding queue (we already have this for our other scrapers, uber eats, etc) and would then be manually reviewed and sorted before final DB import.<br /><br /><br />
+3. INTEGRATE INTO ADMIN PORTAL (if needed.) <br /><br />
+It is will manually sorted for proper format before final import into the DB in the ADMIN PORTAL.<br /><br />
+You would be required to come up with a FIXED PRICE/MILESTONES for this contract. You will need to work within any existing Python/ReactJS developer(s) code &amp;amp; restrictions on the team as needed. If you cannot work within other developers code, DO NOT BID ON THIS JOB!<br /><br /><br />
+==============================================<br /><br />
+First Things First:<br /><br />
+++ WE MANUALLY REVIEW ALL 100+ APPLICANTS.<br />
+++ WE SEEK MARKET VALUE RATES TAILORED TO SPECIFIC TASKS.<br />
+++ HIRE TOP-RATING/10K EARNINGS/UW EXPERIENCED PROFESSIONALS<br />
+++ MUST MEET DEADLINES. WILL BE RATED/REVIEWED ACCORDING.<br />
+++ MUST WORK AS PART OF TEAM/COOPERATIVE IN EXISTING CODE.<br />
+++ YOUR GITHUB/CODE TO BE REVIEWED BY EXISTING TEAM PRIOR<br /><br />
+You can check our job history and the volume of projects in the past year(s). We are only looking for those who are professionals and can delivery quality work on their deadlines. If you are overbooked on your projects, this one is not for you!<br /><br />
+==============================================<br /><br />
+EXPERIENCE/REQUIREMENTS:<br /><br />
+-- FIREBASE DB<br />
+-- REACTJS/NATIVE<br />
+-- PYTHON (data scraper)<br />
+-- MONDAY PM (you must communication/work as a team)<br />
+-- FIXED BUDGET<br />
+-- SIGN NDA<br />
+-- DETAILED COMPREHENSIVE PROPOSAL ***<br /><br /><br />
+***&nbsp;&nbsp;We will not accept &#039;proposals&#039; that are a couple of sentences with arbitrary vague information, including fly-by-night deadlines and asking for thousands. We only work with professionals who present themselves as such. This includes providing documentation of scope and scale, so we know what we are paying for! This protects both sides and sets proper expectations before going into a contract.<br /><br />
+==============================================<br /><br />
+HOURLY CONTRACTS:<br /><br />
+You must do a zoom call every 2 business showing us the progress for the hours being churned. If you&#039;re claiming 40 hours per week, we expect to see 40 hours worth of progress per week.<br /><br />
+MILESTONES:<br /><br />
+If you have not provided 100% deliverables, GITHUB, FIGMA, ZIP FILES, etc., do not submit a request for payment. We should have updated code, or deliverables, every step of the way for review. This is often missed, and then we have to chase it down, causing unnecessary frustration.<br /><br />
+==============================================<br /><br />
+REASONS YOU WILL NOT BE CONSIDERED:<br />
+﻿<br />
+++ AI Autoresponders/Immediate Elimination.<br />
+++ Asking for Phone Calls When None is Needed/All Information Job Post<br />
+++ Demanding a Minimum 40/80 Hours on Jobs That Do Not Require It<br />
+++ Bad Reviews/Ratings. Particularly Where You Do not Meet Deadlines.<br />
+++ Delays in Provided Basic Proposal for Easy Jobs.<br />
+++ Vague/Incomplete/Dismissal of Q&amp;amp;A on More Complicated Job Posting<br />
+++ Limited UW Experience/Reviews/Ratings<br /><br /><br />
+Thank ye kind sire.<br /><br /><br /><b>Hourly Range</b>: $15.00-$50.00
+
+<br /><b>Posted On</b>: May 17, 2024 11:04 UTC<br /><b>Category</b>: Data Extraction<br /><b>Skills</b>:Python,     Data Scraping,     Data Mining,     Microsoft Excel,     Lead Generation,     Data Entry,     JavaScript,     React Native,     Firebase Realtime Database    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/POC-Dynamic-Data-Scraper-Upgrade_%7E01e782ba6ca0693b58?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[REVIEW ALL ATTACHED INFORMATION PROVIDED TO SEE IF QUALIFIED BEFORE APPLYING!<br /><br /><br />
+BACKSTORY:<br /><br />
+We already have a PYTHON/AWS based restaurant scraper the pulls data from Uber Eats, Door Dash,&nbsp;&nbsp;and alike. We also have an AI based scraper that can pull data from images and some more complicated or challenging menus. These are then pulled into a holding queue for manual review, parsing and sorting before it is imported into the final DB for accuracy. The mobile application(s), CRM, website(s) are built in REACT. The current database is utilizing FIREBASE.<br /><br />
+==============================================<br /><br />
+JOB SCOPE: <br /><br />
+We are looking for the next upgrade to our restaurant scraper:<br /><br />
+1. SCRAPE MENU DATA FOR INDIVIDUAL RESTAURANT: <br /><br />
+Version 1.0 will be done on a one-by-one basis manually, with larger versions to automate this for a larger setting to be done. For example, you set to pull 5/10/25 @ a time. Example provided in the attachment(s). Google Places API provides us the &amp;quot;place_id&amp;quot; (ie: ChIJa5DJ9TedF4gRuRi9kzhuRP8) identification for each restaurant, that can be used by the scraper to locate a specific restaurant for the scraping process.<br /><br />
+2. IMPORT DATA&nbsp;&nbsp;(including title/header/categories) into the parsing manual review queue. <br /><br />
+Google Menus are already nicely sorted into categories/titles for each section. We want to preserve this structure. It will be pulled into our parsing holding queue (we already have this for our other scrapers, uber eats, etc) and would then be manually reviewed and sorted before final DB import.<br /><br /><br />
+3. INTEGRATE INTO ADMIN PORTAL (if needed.) <br /><br />
+It is will manually sorted for proper format before final import into the DB in the ADMIN PORTAL.<br /><br />
+You would be required to come up with a FIXED PRICE/MILESTONES for this contract. You will need to work within any existing Python/ReactJS developer(s) code &amp;amp; restrictions on the team as needed. If you cannot work within other developers code, DO NOT BID ON THIS JOB!<br /><br /><br />
+==============================================<br /><br />
+First Things First:<br /><br />
+++ WE MANUALLY REVIEW ALL 100+ APPLICANTS.<br />
+++ WE SEEK MARKET VALUE RATES TAILORED TO SPECIFIC TASKS.<br />
+++ HIRE TOP-RATING/10K EARNINGS/UW EXPERIENCED PROFESSIONALS<br />
+++ MUST MEET DEADLINES. WILL BE RATED/REVIEWED ACCORDING.<br />
+++ MUST WORK AS PART OF TEAM/COOPERATIVE IN EXISTING CODE.<br />
+++ YOUR GITHUB/CODE TO BE REVIEWED BY EXISTING TEAM PRIOR<br /><br />
+You can check our job history and the volume of projects in the past year(s). We are only looking for those who are professionals and can delivery quality work on their deadlines. If you are overbooked on your projects, this one is not for you!<br /><br />
+==============================================<br /><br />
+EXPERIENCE/REQUIREMENTS:<br /><br />
+-- FIREBASE DB<br />
+-- REACTJS/NATIVE<br />
+-- PYTHON (data scraper)<br />
+-- MONDAY PM (you must communication/work as a team)<br />
+-- FIXED BUDGET<br />
+-- SIGN NDA<br />
+-- DETAILED COMPREHENSIVE PROPOSAL ***<br /><br /><br />
+***&nbsp;&nbsp;We will not accept &#039;proposals&#039; that are a couple of sentences with arbitrary vague information, including fly-by-night deadlines and asking for thousands. We only work with professionals who present themselves as such. This includes providing documentation of scope and scale, so we know what we are paying for! This protects both sides and sets proper expectations before going into a contract.<br /><br />
+==============================================<br /><br />
+HOURLY CONTRACTS:<br /><br />
+You must do a zoom call every 2 business showing us the progress for the hours being churned. If you&#039;re claiming 40 hours per week, we expect to see 40 hours worth of progress per week.<br /><br />
+MILESTONES:<br /><br />
+If you have not provided 100% deliverables, GITHUB, FIGMA, ZIP FILES, etc., do not submit a request for payment. We should have updated code, or deliverables, every step of the way for review. This is often missed, and then we have to chase it down, causing unnecessary frustration.<br /><br />
+==============================================<br /><br />
+REASONS YOU WILL NOT BE CONSIDERED:<br />
+﻿<br />
+++ AI Autoresponders/Immediate Elimination.<br />
+++ Asking for Phone Calls When None is Needed/All Information Job Post<br />
+++ Demanding a Minimum 40/80 Hours on Jobs That Do Not Require It<br />
+++ Bad Reviews/Ratings. Particularly Where You Do not Meet Deadlines.<br />
+++ Delays in Provided Basic Proposal for Easy Jobs.<br />
+++ Vague/Incomplete/Dismissal of Q&amp;amp;A on More Complicated Job Posting<br />
+++ Limited UW Experience/Reviews/Ratings<br /><br /><br />
+Thank ye kind sire.<br /><br /><br /><b>Hourly Range</b>: $15.00-$50.00
+
+<br /><b>Posted On</b>: May 17, 2024 11:04 UTC<br /><b>Category</b>: Data Extraction<br /><b>Skills</b>:Python,     Data Scraping,     Data Mining,     Microsoft Excel,     Lead Generation,     Data Entry,     JavaScript,     React Native,     Firebase Realtime Database    
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/POC-Dynamic-Data-Scraper-Upgrade_%7E01e782ba6ca0693b58?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 11:04:15 +0000</pubDate><guid>https://www.upwork.com/jobs/POC-Dynamic-Data-Scraper-Upgrade_%7E01e782ba6ca0693b58?source=rss</guid></item><item><title><![CDATA[[$250] Web - Navigation - Chat finder has weird animation when closing up #42282 - Expensify - Upwork]]></title><link>https://www.upwork.com/jobs/250-Web-Navigation-Chat-finder-has-weird-animation-when-closing-42282-Expensify_%7E018db96bec95e66f96?source=rss</link><description><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42282<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 09:18 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Web-Navigation-Chat-finder-has-weird-animation-when-closing-42282-Expensify_%7E018db96bec95e66f96?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[Expensify is a team of generalists developing today&#039;s leading expense management tool. Maintaining our reputation as an innovative leader in the world of finance requires an incredibly reliable and secure system for processing financial transactions. Accordingly, we primarily leverage time-tested languages, but we&#039;re looking to unify our front-end across platforms. For this, we&#039;re leveraging React Native and are looking toward the community on Upwork to help solve a variety of problems, both big and small, related to this migration.<br /><br />
+Please see the GitHub issue for full details: github.com/Expensify/App/issues/42282<br /><br />
+Your Proposal:<br /><br />
+- You *must* post a proposal for how you will fix this issue in the GitHub issue linked above.<br />
+- Your proposal should include a technical explanation of the changes you will make. You are not required to submit the final solution or code along with your proposal.<br />
+- Your proposal will be reviewed.<br />
+- If your proposal is accepted, you should post the proposal in Upwork and you will be hired for the job.<br />
+- AFTER your proposal is accepted in Upwork and you have accepted the offer, you may submit the code to implement your solution. To submit the code, go to the Expensify/App GitHub repo where you&#039;ll create a fork of our codebase. You&#039;ll create a branch on that fork, and when your code is ready for review, you&#039;ll create a pull request in our repository to merge your code into our codebase. Include screenshots and confirmation that you have tested the pull request on all platforms. Our engineers will review the code, and approve and merge when the code meets our requirements.<br /><br />
+Please review our Contributor Guidelines before submitting a proposal - github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md<br /><br />
+**Important:** As documented in our CONTRIBUTING.md, payment amounts are variable, dependent on any regressions your work causes.<br /><br /><b>Budget</b>: $250
+<br /><b>Posted On</b>: May 17, 2024 09:18 UTC<br /><b>Category</b>: Mobile App Development
+<br /><b>Country</b>: United States
+<br /><a href="https://www.upwork.com/jobs/250-Web-Navigation-Chat-finder-has-weird-animation-when-closing-42282-Expensify_%7E018db96bec95e66f96?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 09:18:21 +0000</pubDate><guid>https://www.upwork.com/jobs/250-Web-Navigation-Chat-finder-has-weird-animation-when-closing-42282-Expensify_%7E018db96bec95e66f96?source=rss</guid></item><item><title><![CDATA[Chatgpt Chat app with multi users - Upwork]]></title><link>https://www.upwork.com/jobs/Chatgpt-Chat-app-with-multi-users_%7E013f6307dff88a2368?source=rss</link><description><![CDATA[I will provide you with example designs, and you can choose the admin panel design yourself. You will create a UI inspired by these designs using React, Next.js, or Vue.js. For the backend, you can use Node.js or Django&mdash;it&#039;s up to you. Finally, you will deploy from my Digital Ocean server, and we will test it. All these projects are open-source, requiring only design changes, integrations, and minor developments.<br /><br />
+If you create chatbots, please respond and read carefully. It must be deployed within 1 months and the price is fixed.<br />
+Price doesn&#039;t change, and neither does deadline to<br />
+Before making an offer, I want you to install and try the chatbot and perplexica! :)<br /><br />
+We will use Lebo-Chat <br /><br /><b>Budget</b>: $700
+<br /><b>Posted On</b>: May 17, 2024 08:03 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:OpenAI API,     Node.js,     React,     Machine Learning    
+<br /><b>Country</b>: Turkey
+<br /><a href="https://www.upwork.com/jobs/Chatgpt-Chat-app-with-multi-users_%7E013f6307dff88a2368?source=rss">click to apply</a>
+]]></description><content:encoded><![CDATA[I will provide you with example designs, and you can choose the admin panel design yourself. You will create a UI inspired by these designs using React, Next.js, or Vue.js. For the backend, you can use Node.js or Django&mdash;it&#039;s up to you. Finally, you will deploy from my Digital Ocean server, and we will test it. All these projects are open-source, requiring only design changes, integrations, and minor developments.<br /><br />
+If you create chatbots, please respond and read carefully. It must be deployed within 1 months and the price is fixed.<br />
+Price doesn&#039;t change, and neither does deadline to<br />
+Before making an offer, I want you to install and try the chatbot and perplexica! :)<br /><br />
+We will use Lebo-Chat <br /><br /><b>Budget</b>: $700
+<br /><b>Posted On</b>: May 17, 2024 08:03 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:OpenAI API,     Node.js,     React,     Machine Learning    
+<br /><b>Country</b>: Turkey
+<br /><a href="https://www.upwork.com/jobs/Chatgpt-Chat-app-with-multi-users_%7E013f6307dff88a2368?source=rss">click to apply</a>
+]]></content:encoded><pubDate>Fri, 17 May 2024 08:03:53 +0000</pubDate><guid>https://www.upwork.com/jobs/Chatgpt-Chat-app-with-multi-users_%7E013f6307dff88a2368?source=rss</guid></item></channel></rss>
